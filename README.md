@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently a student looking for oppurtunities<br>I am looking to collaborate on open source <br>i am currently learning and building on javascript and react<br>
+I am currently a student looking for oppurtunities<br>I am looking to collaborate on open source <br>i am currently learning and building on Javascript and react<br>
 
 
 ## 🌐 Socials:
